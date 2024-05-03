@@ -19,7 +19,20 @@ Kullanıcı adı yanlış girildiyse 'Hatali kullanici adi veya parola!' uyarıs
 Doğru giriş yapılıp, yapılabilecek işlemler menüsünden de ‘Araba ekle’ seçeneğine gidildiğini varsayarak devam ediyorum. Araba eklemek için 1 seçeneği seçilmelidir. Seçildikten sonra karşımıza arabanın marka, modeli renk ve ücretini soran menü çıkmaktadır. Bu menüdeki bilgiler doldurulduğunda arabanın kaydi tamamlanmış olup, bu durumu ifade eden ‘Araba kaydı tamamlandı!’ mesajını ekrana yazdırılmaktadır.
 ![Araba Ekleme](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/e4c50395-91ef-4e14-a13a-630e02419027)
 
+Programa eklenilen bir arabanın bilgilerini güncellemek için açılan menü sayfasından 2 seçeneği seçilmelidir. 
+![Araba Guncelleme1](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/48e60ae7-77e7-47eb-8db2-3c7f6c7ebee1)
 
+Araba güncelleme seçildikten sonra bütün arabalar numaraları ile birlikte liste şeklinde ekranda görülmektedir. Buradan güncellenmek istenilen arabanın numarası seçilmelidir.
+![Araba Guncelleme2](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/2d97bf1d-ec03-4677-93cf-882069f8fab4)
+
+Numarası seçildikten sonra marka, model, renk, ücret bilgileri sıra sıra sorulmaktadır. Güncel bilgiler girildikten sonra ‘Araba güncelleme işlemi tamamlandı!’ mesajı ekranda görülmektedir.
+![Araba Guncelleme3](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/7ac34b4e-0ea4-455a-adfa-403756a6a829)
+
+Araba silmek için açılan menüden 3 seçeneği seçilmelidir. Araba silme seçildikten sonra bütün arabalar numaraları ile birlikte liste şeklinde ekranda görülmektedir. Buradan silinmek istenilen arabanın numarası seçilmelidir.
+![Araba Silme1](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/3ae331c3-6cf2-47cb-ac6f-2379e5f1810c)
+
+Numarası seçilen araba silinmektedir. Silindiğini ifade eden ‘Araba silme işlemi tamamlandı!’ mesajı ekranda görülmektedir.
+![Araba Silme2](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/ddc8868b-4215-4eb5-bcfc-4711b92ced2c)
 
 
 
