@@ -34,7 +34,14 @@ Araba silmek için açılan menüden 3 seçeneği seçilmelidir. Araba silme se�
 Numarası seçilen araba silinmektedir. Silindiğini ifade eden ‘Araba silme işlemi tamamlandı!’ mesajı ekranda görülmektedir.
 ![Araba Silme2](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/ddc8868b-4215-4eb5-bcfc-4711b92ced2c)
 
+Araba çıkış işlemi için açılan menüden 4 seçeneği seçilmelidir. Araba çıkış işlemi seçildikten sonra bütün arabalar numaraları ile birlikte liste şeklinde ekranda görülmektedir. Buradan çıkışı yapılmak istenilen arabanın numarası seçilmelidir.
+![Araba Çıkış1](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/12dad0bb-8693-4f89-8992-f7f55d019845)
 
+Numarası seçilen arabanın çıkış işlemi yapılmaktadır. Çıkış yaptığını anlatan ‘Araba çıkış işlemi tamamlandı!’ mesajı ekranda görülmektedir.
+![Araba Çıkış2](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/117a4638-fde4-4cff-bce5-84c6a6095a75)
+
+Kontrol ettiğimizde arabanın artık otoparkta olarak değil, çıktı olarak görüldüğünü fark ediyoruz.
+![Araba Çıkış3](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/3ce4b829-0c05-4aa8-9f90-0e56bbdbc08b)
 
 
 
