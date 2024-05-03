@@ -43,6 +43,13 @@ Numarası seçilen arabanın çıkış işlemi yapılmaktadır. Çıkış yaptı
 Kontrol ettiğimizde arabanın artık otoparkta olarak değil, çıktı olarak görüldüğünü fark ediyoruz.
 ![Araba Çıkış3](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/3ce4b829-0c05-4aa8-9f90-0e56bbdbc08b)
 
+Araba listeleme işlemi için açılan menüden 5 seçeneği seçilmelidir. Araba listeleme işlemi seçildikten sonra bütün arabalar numaraları ile birlikte liste şeklinde ekranda görülmektedir.
+![Araba Listeleme](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/6dca54ad-0655-491f-a0ed-af2bbfa8e81c)
 
+Araba bulma işlemi için açılan menüden 6 seçeneği seçilmelidir. Araba bulma işlemi seçildikten sonra bütün arabalar numaraları ile birlikte liste şeklinde ekranda görülmektedir.
+![Araba Bul1](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/05ab1788-321a-462f-bb57-ed79b0f98129)
+
+Bulunulması istenilen arabanın numarası girildikten sonra arabanın bütün özellikleri ekranda görülmektedir.
+![Araba Bul2](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/b2913661-71f0-4250-ba21-7b0221d4bea7)
 
 
