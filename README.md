@@ -16,6 +16,11 @@ Parola yanlış girildiyse 'Hatali parola! Lütfen tekrar deneyin.' uyarısı ek
 Kullanıcı adı yanlış girildiyse 'Hatali kullanici adi veya parola!' uyarısı ekrana verilmektedir. Program ana menüye dönmektedir.
 ![Hatali Kullanıcı Adı](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/9de49ace-b3ce-43f2-919f-5777efc483fa)
 
+Doğru giriş yapılıp, yapılabilecek işlemler menüsünden de ‘Araba ekle’ seçeneğine gidildiğini varsayarak devam ediyorum. Araba eklemek için 1 seçeneği seçilmelidir. Seçildikten sonra karşımıza arabanın marka, modeli renk ve ücretini soran menü çıkmaktadır. Bu menüdeki bilgiler doldurulduğunda arabanın kaydi tamamlanmış olup, bu durumu ifade eden ‘Araba kaydı tamamlandı!’ mesajını ekrana yazdırılmaktadır.
+![Araba Ekleme](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/e4c50395-91ef-4e14-a13a-630e02419027)
+
+
+
 
 
 
