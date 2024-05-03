@@ -1,20 +1,20 @@
 # Araba-Otopark-Otomasyonu
 C programlama dilinde araba otopark otomasyonu
 
-Otomasyon ilk çalıştırıldığında karşımıza aşağıdaki ekran çıkmaktadır:
-![Giriş Ekranı](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/59bcae0b-3f0a-487a-b080-f524801a2ba9)
+Otomasyon ilk çalıştırıldığı zaman karşımıza aşağıdaki ekran gelmektedir:
+![Giriş Ekranı](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/4da8c4fc-604a-40b3-99aa-34ae2c473629)
 
-Programı kapat anlamına gelen 0(sıfır) seçeneğini seçersek 'Program kapatılıyor...' yazısının ardından otomasyon sonlandırılmaktadır.
-![Program Kapatılıyor](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/432efdcd-4146-4b06-86ef-d405e935c016)
+Eğer otomasyon kapatılmak isteniliyorsa ‘Programı Kapat’ anlamına gelen 0 seçeneği seçilmelidir. Seçim kısmına 0 yazıldığında program kapatılmaktadır.
+![Program Kapatılıyor](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/fa3c073b-dabe-428d-b9da-55a7c4a6d2b1)
 
-Eğer programı kapatmak yerine başlatılmak isteniyorsa 1 seçeneği seçilmelidir. Program başlatıldıktan sonra giriş ekranı bizi karşılıyor. Sisteme giriş yapılabilmesi için kullanıcı adı ve parola istenmektedir. Kullanıcı adı sistem tarafından 'admin' olarak belirlenmiştir. Parola ise kullanıcı tarafından belirlenmektedir. Dört karakterden oluşacak şekilde bir parola oluşturulması gerekiyor. Eğer kullanıcı adı ve parola doğru girilmişse 'Giriş basarili!' yazısından sonra yapılabilecek işlemlerin olduğu menü açılmaktadır.
-![Giris Basarili](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/b9486d66-7ffb-4b6c-bdc2-080999496a42)
+Eğer programı kapatmak yerine başlatılmak isteniyorsa 1 seçeneği seçilmelidir. Program başlatıldıktan sonra giriş ekranı bizi karşılamaktadır. Sisteme giriş yapılabilmesi için kullanıcı adı ve parola istenmektedir. Kullanıcı adı sistem tarafından 'admin' olarak belirlenmiştir. Parola bölümünün ise kullanıcı tarafından belirlenmesi istenilmektedir. Kullanıcı dört karakterli bir şifre oluşturmalıdır. Eğer kullanıcı adı ve parola doğru girilmişse 'Giriş basarili!' yazısından sonra yapılabilecek işlemlerin olduğu menü açılmaktadır.
+![Giris Basarili](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/c4bb1272-d2bc-49d7-b7b4-118e59eff29b)
 
-Parola yanlış girildiyse 'Hatali parola! Lütfen tekrar deneyin.' uyarısı ekrana verilmektedir. Parolanın tekrardan girilmesi istenilmektedir.
-![Hatali Parola](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/a9c0ec99-32e8-48d6-b947-418f792d31ef)
+Parola yanlış girildiyse 'Hatali parola! Lütfen tekrar deneyin.' uyarısı ekrana verilmektedir. Parolanın tekrardan girilmesi istenilmektedir. Doğru parola girilene kadar döngü tekrarlanmaktadır.
+![Hatali Parola](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/9b8de23e-f6d4-4ed0-bd05-9a10471a4ecd)
 
 Kullanıcı adı yanlış girildiyse 'Hatali kullanici adi veya parola!' uyarısı ekrana verilmektedir. Program ana menüye dönmektedir.
-![Hatali Kullanıcı Adı](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/f9766d8c-f9b3-42eb-a73a-61f110d98dc7)
+![Hatali Kullanıcı Adı](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/9de49ace-b3ce-43f2-919f-5777efc483fa)
 
 
 
