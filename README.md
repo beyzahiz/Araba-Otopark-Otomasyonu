@@ -52,4 +52,14 @@ Araba bulma işlemi için açılan menüden 6 seçeneği seçilmelidir. Araba bu
 Bulunulması istenilen arabanın numarası girildikten sonra arabanın bütün özellikleri ekranda görülmektedir.
 ![Araba Bul2](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/b2913661-71f0-4250-ba21-7b0221d4bea7)
 
+Çıkış işlemi için açılan menüden 0 seçeneği seçilmelidir. 
+![Çıkış Yap1](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/e459d561-4d73-4fe9-9596-3d6a8d65c1bb)
+
+‘Çıkış yapıldı...’ mesajından sonra ana menüye dönülmektedir. Buradan da ‘programı kapat’ anlamına gelen 0 seçeneği seçilince otomasyon kapanmaktadır. Bu durumu yansıtan ‘Program kapatılıyor...’ mesajı ekrana yazdırılmaktadır.
+![Çıkış Yap2](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/91e1c4a0-136a-4412-b974-32b77cda17d3)
+
+
+
+
+
 
