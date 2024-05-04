@@ -1,6 +1,8 @@
 # Araba-Otopark-Otomasyonu
 C programlama dilinde araba otopark otomasyonu
 
+Projede bir otopark sahibinin işleyiş açısından kolaylık sağlayacak bir sisteme erişebilmesi hedeflenmiştir. Oluşturulan otomasyon sayesinde araba silme, ekleme gibi işlemleri oldukça kolay bir biçimde yapabilir. Araçların nerede olduğuna, otoparkta anlık olarak bulunup bulunmadığına kolaylıkla bakılabilir.
+
 Otomasyon ilk çalıştırıldığı zaman karşımıza aşağıdaki ekran gelmektedir:
 ![Giriş Ekranı](https://github.com/beyzahiz/Araba-Otopark-Otomasyonu/assets/130295983/4da8c4fc-604a-40b3-99aa-34ae2c473629)
 
